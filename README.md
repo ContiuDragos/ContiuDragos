@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ContiuDragos
+- 👀 I’m interested in software programming
+- 🌱 I’m currently learning Computer Science at Technical University of Cluj-Napoca
+- 💞️ I’m looking to collaborate on new projects no matter the difficulty level
+- 📫 How to reach me: sned me a mail on contiudragos@yahoo.ro
